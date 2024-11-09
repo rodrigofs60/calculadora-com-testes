@@ -1,0 +1,14 @@
+C:\Projetos\NewTalents\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Projetos\NewTalents\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Projetos\NewTalents\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Projetos\NewTalents\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Projetos\NewTalents\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Projetos\NewTalents\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
